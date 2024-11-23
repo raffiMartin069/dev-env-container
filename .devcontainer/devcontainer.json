@@ -74,7 +74,32 @@
 				"PKief.material-icon-theme",
 				"hossaini.bootstrap-intellisense",
 				"ms-vscode.vscode-typescript-next",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"WallabyJs.quokka-vscode",
+				"ms-dotnettools.vscode-dotnet-pack",
+				"xdebug.php-debug",
+				"DEVSENSE.phptools-vscode",
+				"bradlc.vscode-tailwindcss",
+				"dsznajder.es7-react-js-snippets",
+				"msjsdiag.vscode-react-native",
+				"ms-dotnettools.csharp",
+				"WakaTime.vscode-wakatime",
+				"redhat.vscode-yaml",
+				"donjayamanne.python-environment-manager",
+				"yzhang.markdown-all-in-one",
+				"DotJoshJohnson.xml",
+				"mikestead.dotenv",
+				"ms-vscode.hexeditor",
+				"GrapeCity.gc-excelviewer",
+				"onecentlin.laravel-blade",
+				"ZainChen.json",
+				"rvest.vs-code-prettier-eslint",
+				"onecentlin.laravel5-snippets",
+				"golang.Go",
+				"ms-vscode.azure-account",
+				"ms-azuretools.vscode-azureresourcegroups",
+				"ms-vscode.vscode-node-azure-pack",
+				"DEVSENSE.composer-php-vscode"
 			]
 		}
 	}
